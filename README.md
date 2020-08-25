@@ -26,5 +26,24 @@ started quickly. This will allow a project creator to spend more time working on
 
 Command-line application dynamically generates a README.md from input criteria. Application is run through Node.js via node command.
 
+https://youtu.be/lbyCAhsc80Y
+
 # License
 
+__________
+
+# Contributors
+
+List of who worked on project
+
+# Test
+
+-Test Percentage-
+
+# Repository
+
+Link to the Project Repo
+
+# Github
+
+GitHub owner profile and information
